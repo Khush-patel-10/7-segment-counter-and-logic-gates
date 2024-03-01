@@ -14,7 +14,7 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "clock"
+  ui[0]: "clock 1hz"
   ui[1]: ""
   ui[2]: "logic low for counter and logic high for  gates operation"
   ui[3]: "logic high only"
