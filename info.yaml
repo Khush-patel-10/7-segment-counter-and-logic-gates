@@ -18,7 +18,7 @@ pinout:
   ui[1]: ""
   ui[2]: ""
   ui[3]: "logic low for counter and logic high for basic gates operation"
-  ui[4]: "logic high"
+  ui[4]: "logic high only"
   ui[5]: "gates input a"
   ui[6]: "gates input b"
   ui[7]: ""
